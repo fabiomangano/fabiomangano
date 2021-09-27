@@ -2,8 +2,8 @@ Hi there 👋
 
 I'm a Software Engineer working in Milan, Italy.
 
-ABOUT
 
+ABOUT
 🏢 I'm currently working at ristoranti.it  
 
 ⚙️ I use daily: Html, Css, Javascript, Node.js, React.js, Grapqhl...  
