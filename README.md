@@ -7,7 +7,7 @@ ABOUT
 
 🏢   I'm currently working at [ristoranti.it](https://www.ristoranti.it/)  
 
-⚙️  I use daily: Html, Css, Javascript, Node.js, React.js, Grapqhl...  
+⚙️  I use daily: Html, Css, Javascript, Node.js, React.js ...  
   
 💬   Contact me on Linkedin: https://www.linkedin.com/in/fabiomangano/    
 
