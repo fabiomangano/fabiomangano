@@ -1,7 +1,6 @@
 Hi there 👋
 
 I'm a Software Engineer working in Milan, Italy.  
-<br />
 
 ABOUT
 <br>
