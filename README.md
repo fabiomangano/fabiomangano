@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm a Software Engineer working in Milan, Italy.  
+I'm a Software Engineer working in Catania, Italy.  
 
 ABOUT
 <br>
