@@ -1,10 +1,24 @@
 Hi there 👋
 
-I'm a Software Engineer working in Catania, Italy.  
+Who Am I
+I'm a Frontend Developer working in Catania, Italy. 
 
-ABOUT
-<br>
-🏢  I'm currently working at [finconsgroup](https://www.finconsgroup.com/)  
-⚙️   I use daily: Html, Css, Javascript, Node.js, React.js  
-💬  Contact me on Linkedin: https://www.linkedin.com/in/fabiomangano/    
-📫  Reach me: fabio_mangano@hotmail.it  
+Contact
+Email: fabio_mangano@hotmail.it
+LinkedIn: LinkedIn Profile
+GitHub: GitHub
+
+Favorite Technologies
+Frontend: HTML, CSS, JavaScript, Sass, TypeScript, React, Next.js
+Mobile: React Native
+Backend: Node.js 
+
+Contributions
+I'm passionate about open source and love contributing to interesting projects. Check out my repositories to see what I've been working on!
+
+Future Goals
+I'm currently exploring new technologies and development methodologies. My goal is to continually learn and contribute to innovative projects.
+
+Want to Collaborate?
+I'm always open to new collaboration opportunities and exciting projects. If you have an idea or project in mind, feel free to reach out!
+
