@@ -9,7 +9,6 @@ I enjoy reducing complexity through architecture, developer experience and techn
 * Frontend Architecture
 * Technical Leadership
 * React • Next.js • Angular
-* Design Systems
 * Performance & Accessibility
 * Testing Strategy
 * AI-assisted Engineering
