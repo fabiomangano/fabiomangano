@@ -11,7 +11,6 @@ I enjoy reducing complexity in large frontend systems. Whether it's architecture
 * 🏗 Frontend Architecture
 * 👥 Technical Leadership & Mentoring
 * ⚛ React • Next.js • Angular
-* 🎨 Design Systems
 * ⚡ Performance Optimization
 * ♿ Accessibility (WCAG / AgID)
 * ✅ Testing Strategy
@@ -19,28 +18,15 @@ I enjoy reducing complexity in large frontend systems. Whether it's architecture
 * 🤖 AI-assisted Engineering
 
 ---
+## Highlights
 
-## 🚀 Selected Highlights
+• Frontend architecture for 40+ enterprise applications
 
-### Julius Bär
+• Reduced Magento migration costs by ~50% through a headless architecture
 
-Designed the frontend architecture for the migration of an ecosystem of **40+ enterprise applications**, standardizing development workflows and reducing integration time from **days to hours**.
+• Designed an AgID-compliant frontend platform for the Italian Public Administration
 
-### Giuffrè Editore
-
-Defined the migration strategy from Magento to a **Headless Architecture**, reducing development costs by **~50%** while improving UX, SEO and performance.
-
-### Portale Deleghe
-
-Designed the frontend architecture and coordinated stakeholders and development teams, delivering an **AgID-compliant** platform focused on accessibility, security and software quality.
-
-### Criterion (European Research Project)
-
-Contributed to the development of an **open-source collaborative editor** as part of a European research initiative, working on real-time collaboration features and enterprise frontend development.
-
-### Ristoranti.it
-
-Migrated backend services from **AWS EC2 to AWS Lambda**, reducing infrastructure costs by **~90%**, and contributed to an ecosystem of **800+ white-label mobile/PWA applications**.
+• Contributor to an open-source collaborative editor within a European research project
 
 ---
 
