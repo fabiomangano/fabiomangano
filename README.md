@@ -6,7 +6,7 @@
 
 # 🎯 Focus
 
-I enjoy turning complex requirements into scalable, maintainable frontend solutions.
+My work focuses on:
 
 * 🏗️ Frontend Architecture
 * 👥 Technical Leadership
