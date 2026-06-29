@@ -1,6 +1,7 @@
 # Fabio Mangano
 
-**Frontend Technical Lead** building scalable frontend architectures for enterprise applications.  
+**Frontend Technical Lead** building scalable frontend architectures for enterprise applications.
+
 I enjoy reducing complexity through architecture, developer experience and technical leadership.
 
 # Focus
