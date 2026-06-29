@@ -6,6 +6,8 @@
 
 # 🎯 Focus
 
+I enjoy turning complex requirements into scalable, maintainable frontend solutions.
+
 * 🏗️ Frontend Architecture
 * 👥 Technical Leadership
 * ⚛️ React • Next.js • Angular
@@ -14,6 +16,8 @@
 * 🤖 AI-assisted Engineering
 
 # 📫 Connect
+
+Whether you're an engineer, recruiter, founder, or simply interested in software engineering, feel free to reach out—I'm always open to interesting conversations and new opportunities.
 
 * 💼 LinkedIn — https://linkedin.com/in/fabiomangano
 * 📧 [fabio_mangano@hotmail.it](mailto:fabio_mangano@hotmail.it)
