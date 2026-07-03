@@ -10,7 +10,7 @@ My work focuses on:
 
 * 🏗️ Frontend Architecture
 * 👥 Technical Leadership
-* ⚛️ React • Next.js • Angular
+* ⚛️ React • Angular • Typescript
 * ⚡ Performance & Accessibility
 * ✅ Testing Strategy
 * 🤖 AI-assisted Engineering
